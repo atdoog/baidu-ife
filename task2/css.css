@@ -1,0 +1,97 @@
+		body{
+		margin: 0px;
+		background-color: grey;
+		}
+		
+		.title{
+		background-color: black;
+		height: 60px;
+		}
+		.logo{
+		position:relative;
+		float: left;
+		padding-left: 20px;
+		
+		}
+		.nav{
+		position: relative;
+		float: right;
+		font-size: 20px;
+		
+		}
+		.nav li{
+		display: inline;
+		padding-right: 20px;
+		
+		}
+		.nav li a{text-decoration: none;
+		}
+		section{
+		background-color: white;
+		padding: 20px;
+		margin: 20px;
+		border: 1px;
+		}
+		p{
+		text-indent: 2em;
+		}
+		footer{
+		background-color: #2F4F4F;
+		text-align: center;
+		height: 50px;
+		color: white;
+		line-height: 60px;
+		margin: 0px;
+		}
+		
+		#aside{
+		background: white;
+		padding:0 22px 30px 22px;
+		margin: 20px;
+		border: 1px solid #999;
+		border-bottom: 2px solid #999;
+		border-right: 2px solid #999;
+		
+		}
+		
+		#aside h2{
+		font-size: 20px;
+		padding-left: 20px;
+		border-left-width: 3px;
+		border-left-color: black;
+		border-left-style: solid;
+		
+		
+		}
+		.shuru{
+		margin-left: 250px;
+		
+		
+		}
+		#yaoqiu{
+		
+		font-color: grey;
+		font-size: 10px;
+		margin-top: -2px;
+		padding-left: 95px;
+		}
+		#shuru2{
+	
+		margin-left: 20px;
+		}
+		#shuru3{
+		margin-left:-10px;
+		line-height: 2;
+		}
+		#biao-top{
+			background-color: black;
+			color:white;
+		}
+		#biao-bottom{
+		background-color: grey;
+		
+		}
+		table{
+			width: 100%;
+			border:1px;
+		}
